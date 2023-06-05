@@ -117,7 +117,7 @@ and for trying hardly to achieve all the goals.
 	
 	<div class="column right-side">
     <h2> </h2>
-    <p></p>
+    <p> this is github test</p>
 	<img src="pic.jpg" alt=" pic">
   </div>
   </div>
